@@ -1,0 +1,22 @@
+{
+  "name": "serial-utils",
+  "version": "1.0.0",
+  "description": "Some serial port utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozilla-iot/serial-utils.git"
+  },
+  "author": "Mozilla IoT",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/mozilla-iot/serial-utils/issues"
+  },
+  "homepage": "https://github.com/mozilla-iot/serial-utils#readme",
+  "dependencies": {
+    "serialport": "^6.2.1"
+  }
+}
